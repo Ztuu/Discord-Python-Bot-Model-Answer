@@ -1,5 +1,5 @@
 # Discord Bot in Python Model Answer
-This is a basic discord bot created by completing the tasks in [this exercise](TBD).
+This is a basic discord bot created by completing the tasks in [this exercise](https://github.com/Ztuu/Discord-Python-Bot-Tutorial).
 
 The bot has the following commands:
 * !test - A test command to check the bot is functioning. It should reply "test successful" in the same channel.
